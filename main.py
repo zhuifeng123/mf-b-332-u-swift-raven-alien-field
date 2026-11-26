@@ -2,9 +2,9 @@
 import os
 
 ENTRY = (
-    "Earth: 3.5 stars. Oceans excellent, sunsets overrated, oxygen complimentary. "
-    "The dominant species pays to watch other humans pretend to be someone else. "
-    "Would not return."
+    "Earth: 4 stars. Oceans superb, oxygen on the house, service dreadful: "
+    "nobody answered my comet. The locals pay to watch other humans pretend. "
+    "Would not return; would recommend."
 )
 
 def main() -> None:
